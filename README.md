@@ -38,4 +38,4 @@ Open a browser and navigate to http://localhost:3000
 ## Built With
 [Node.js](https://nodejs.org)- JavaScript runtime built on Chrome's V8 JavaScript engine
 
-[Socket.io](https://sockets.io) - Real-time communication library for Node.js
+[Socket.io](https://socket.io) - Real-time communication library for Node.js
