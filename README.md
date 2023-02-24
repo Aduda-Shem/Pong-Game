@@ -19,11 +19,11 @@ You will need to have Node.js and npm (Node Package Manager) installed on your s
 
 Clone the repository to your local machine:
 
-`git clone https://github.com/Aduda-Shem/pong-game-sockets.io.git`
+`git clone https://github.com/Aduda-Shem/Pong-Game.git`
 
 Navigate to the project directory:
 
-`cd pong-game-sockets.io`
+`cd Pong-Game`
 
 Install the required dependencies:
 
